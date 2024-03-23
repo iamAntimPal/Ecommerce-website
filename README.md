@@ -33,7 +33,7 @@ git clone https://github.com/iamAntimPal/Ecommerce-website.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/).
 
 ## License
 
