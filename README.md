@@ -1,6 +1,4 @@
 # Anon - An eCommerce Website
-
-![GitHub repo size](https://github.com/iamAntimPal/Ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/iamAntimPal/Ecommerce-wevsite?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/iamAntimPal/Ecommerce-website?style=social)
 
